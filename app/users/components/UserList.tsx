@@ -11,7 +11,7 @@ const UserList: React.FC<UserListProps> = ({ items }) => {
   return (
     <aside
       className="
-        fiexd
+        fixed
         inset-y-0
         pb-20
         lg:pb-0
